@@ -10,8 +10,7 @@ You always walk only a single block for each letter (direction) and you know it 
 
 
 
-***Note:*** *you will always receive a valid array containing arandom assortment of direction letters ('n', 's', 'e', or 'w' only). 
-It will never give you an empty array (that's not a walk, that's standing still!).*
+***Note:*** *you will always receive a valid array containing arandom assortment of direction letters ('n', 's', 'e', or 'w' only). It will never give you an empty array (that's not a walk, that's standing still!).*
 
 ### Given Code
 
